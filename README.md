@@ -22,7 +22,7 @@ The tests are written on [DemoQA](https://demoqa.com) sample application for dem
 ## 📦 Installation
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/automation-by-anshika/playwright-demoqa-tests.git
+   git clone https://github.com/automation-by-anshika/playwright-demoqa.git
    cd D://playwright-framework
 
 2. **Install dependencies**
@@ -76,7 +76,7 @@ npm run allure:open
 
 
 👩‍💻 **Author**
-**Anshika Yadav**
+**Ankit Yadav**
 **Automation Tester | SDET | Test Automation Enthusiast**
 
 ---
